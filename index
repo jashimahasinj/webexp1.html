@@ -1,0 +1,55 @@
+<html>
+    <head>
+            <title>FirstPage </title> 
+    </head>
+    <style>
+        body
+        {
+            background-color: lightblue;
+        }
+        h1{
+            color:navy;
+            margin-left: 20px;
+        }</style>
+    <body>
+        <p>My College Address:</p>
+        <a href="https://www.kongu.ac.in"target ="_blank"> kongu</a>
+        <a href="htmllink"> html</a>
+        <h1>Kongu Engineering College</h1>
+        <h2>Kaveri hostel</h2>
+        <h3>Perundurai</h3>
+        <h4>Erode</h4>
+        <body bgcolor="#2DA9AD">
+            <h1><a href="#last">bottom</a></h1>
+             <h1 id="first">topic 1</h1>
+             <p> title ="Journalism"> </p>
+                  Journalism has always been plural; indeed one of the distinctive characteristics of the modern newspaper is the fact that it mixes widely disparate types of content, not only in terms of subject matter but in terms of the functions it fulfills for readers. Journalism provides both information and entertainment. It also provides moral and ideological orientation. Even in countries where objectivity became a dominant professional value, there continue to be many occasions when journalists communicate value judgments to their readers, particularly when the society's consensus or hegemonic values are considered to be at stake, in covering international conflict, for example, or in investigative reporting. Some scholars have also argued that journalists perform a ritual function, promoting a sense of community solidarity, particularly in the coverage of ceremonial events and crises
+
+<p>In most societies there is also some differentiation of journalism into distinct styles, often serving different parts of the community. The most striking example is probably the differentiation of the British press between the ‘quality’ or broadsheet press, serving middle and upper class readers and emphasizing informational journalism, and the mass or tabloid press, serving primarily working class readers with a much more entertainment-oriented form of journalism. In France a distinction has often been drawn among ‘rationalist,’ ‘sensationalist,’ and ‘ideological’ newspapers, the latter including Catholic and Communist organs. In many countries local and regional papers are more commercially oriented and lack distinct political orientations, while national (or capital city) papers reflect distinct political tendencies. In the US, ethnic minority media have played an important role, and often practice a form of journalism that was intended less to provide neutral information than to defend the interests of a particular part of the community.
+
+Diverse social and political systems have also given rise to diverse forms of journalism. In Europe, for example, although partisan journalism in the traditional sense has declined dramatically since the Second World War (the longest important survivor was the Italian Communist paper L'Unità), newspapers nevertheless have more clearly differentiated political orientations than those in the US. European journalists are also more likely to see commentary and to some degree advocacy as integral to the journalist's role than their US counterparts (Mancini 1993, Donsbach and Klett 1993). An important distinction can also be drawn between societies where newspapers have mass circulations (mainly in Northern Europe, North America, and parts of East Asia) and those (in Southern Europe, for example, and most of Latin America) where their circulation is restricted to a relatively small, usually educated and politically-active elite. Print journalism tends to be more a part of the political world and less a part of the market in the latter, and it emphasizes ‘horizontal’ communication among political elites more than ‘vertical’ communication between elites and a mass public.
+
+Journalism in Communist societies had its roots in the Western European tradition of party journalism, oriented toward political mobilization. But with the fusing of party and state, journalists became official figures and distinctive functions evolved. Journalists have often served a function similar to that of the ombudsman, for example—as someone to whom ordinary people would complain, hoping to be heard by those in power. Journalism was an important institution in Communist societies, well supported by the state, trade unions, and other official institutions to which it was attached. In countries where the communist party remains in power, particularly Vietnam and China, a complex hybrid of party control and market orientation is emerging (Zhao 1998).
+
+In postcolonial societies, the most distinctive form of journalism to emerge was ‘development journalism,’ particularly prominent during the 1970s, which rejected the notion of the journalist as disinterested observer, and saw it as the function of the journalist to play an active role in promoting economic and political development. Development journalism was widely criticized for subservience to state power, though to a large extent the political caution which development journalists exercised was probably dictated by the same conditions of political life that affected all journalists in postcolonial societies, whatever model of journalism they espoused. In many ways, development journalism is similar to the tradition of ‘boosterism’ in US journalism, which similarly saw the newspaper as a force for the economic development of the community, and often similarly emphasized consensus over conflict.</p>
+<h1><a href="#first">top</a></h1>
+<h1 id="last">topic 3</h1>
+            <img src="acer wallpaper.jpg" alt="image here" width="600"  heigth="700">
+            <p title ="KEC"> </p>
+            hi hello how are you<br> iam jashi
+            <p>hi   hello     wow</p>
+            <pre>hi   hello    wow</pre>
+            <b>Journalism<br></b>
+            <strong>this is very imp<br></strong>
+            <i>Journalism has always been plural<br></i>
+            <em>jh kn<br></em>
+            <mark>IEEE<br></mark>
+            <small>IEEE</small>
+            <del>IEEE</del>
+            <p>hi   hello  <ins>hru</ins>   wow</p>
+            <sub>web engineering</sub>
+            <sup>web engineering</sup>
+            <p>hi   hello   <q>,</q>  wow</p>
+
+    </body>
+</html>
